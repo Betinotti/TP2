@@ -90,7 +90,7 @@ int menu_eleccion(FILE *inter,FILE *nuevas,FILE *ventas)
 		switch (eleccion)
 		{
 		    case OP1:
-			 	 printf("has seleccionado \%d mostrar archivos\n",OP1);
+			 	 printf("has seleccionado %d mostrar archivos\n",OP1);
 			 	 submenu_mostrar(inter,nuevas,ventas);
    				 break;
 	    	 case OP2:
