@@ -129,7 +129,7 @@ int menu_eleccion(FILE *inter,FILE *nuevas,FILE *ventas,FILE *errores, FILE *aux
 				   break;
         }
         
-	printf("¿Desea volver al menu principal? s / n : ");
+	printf("Â¿Desea volver al menu principal? s / n : ");
 	fflush(stdin);
 	scanf("%c",&deseo);
 	
@@ -518,7 +518,7 @@ void procesar_ventas(FILE * a)
 	while(!feof(a))
 	{	
 		codigo_anterior=v.sucursal;
-		printf("_________________________________________\n");
+		delimitador()
 		printf("Sucursal %d \n",v.sucursal);
 		
 		/*reset importe por sucursal*/
@@ -556,7 +556,7 @@ void procesar_ventas(FILE * a)
 		
 	}
 	/*muestra el importe GLOBAL*/
-	printf("_________________________________________\n");
+	delimitador();
 	printf("TOTAL GLOBAL\t\t        %.4f \n",importe_global);
 	
 	fclose(a);
