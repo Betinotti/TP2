@@ -88,9 +88,7 @@ int  main(){
 /*	
 	menu_eleccion(ASucInter,ASucNueva,AVentas,AErrores,AAux);
 */
-mostrar_datos_suc(ASucNueva,2);
-ordenar_sucursal(ASucNueva);
-mostrar_datos_suc(ASucNueva,2);
+menu_eleccion(ASucInter,ASucNueva,AVentas,AErrores,AAux);
 
 }
 
@@ -121,7 +119,7 @@ int menu_eleccion(FILE *inter,FILE *nuevas,FILE *ventas,FILE *errores, FILE *aux
 	   			  break;
 			 case OP3:
 			 	  printf("Has seleccionado %d \n",OP3);
-				  ordenar_ventas(ventas);
+				  
 				  procesar_ventas(ventas);
 				  break;
 			 case OP4:
@@ -135,7 +133,7 @@ int menu_eleccion(FILE *inter,FILE *nuevas,FILE *ventas,FILE *errores, FILE *aux
 				   break;
         }
         
-	printf("¿Desea volver al menu principal? s / n : ");
+	printf("Â¿Desea volver al menu principal? s / n : ");
 	fflush(stdin);
 	scanf("%c",&deseo);
 	
