@@ -1,0 +1,8 @@
+  HASTA aquí todo lo hecho .Revisar la salida ,antes de cada paso especificado en el punto 5 del documento TP2 (tipo word) 
+  hay unos demarcadores asi '[@@@@@    -numero -explicación ]' para facilitar el seguimiento del programa.
+  hay un pdf con las tablas de los valores. 
+  hay una carpeta con los archivos con lo que inicia el programa (archivos base) y a los que se agregarán los datos QUE están en 
+  las tablas correcpondientes.Tambien hay una planilla de cálculo .
+  los archivos que están sueltos (sucinter, sucnuevas ,error y ventas) son el resultado luego de haber corrido el programa una vez
+  para generar capturasalida.txt.
+    ES POSIBLE QUE HAYA QUE REVISAR LOS NOMBRES DE LAS TABLAS EN EL TP2.DOC PARA QUE COINCIDADN CON LO QUE FIGURA EN LAS TABLAS PDF.
