@@ -1,0 +1,4 @@
+1 s1 Afganistan Kandahar aaa 
+5 s5 Chile Temuco ccc 
+59 s59 Malasia Kualalumpur mmm 
+8861 s8861 Grecia Atenas ggg 

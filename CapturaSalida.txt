@@ -1,0 +1,1005 @@
+[pepe@localhost Debug]$ ./PuebasTP2 
+[@@@@@@@@@@@@@@@@ 1 MOSTRAR ARCHIVOS BASE]
+>>>>>>>>>>>>>>>>BIENVENIDO<<<<<<<<<<<<<<<<
+******************WELCOME*****************
+
+Seleccione una opcion:
+ 	1 Mostrar archivo.
+	2 Ingresar registro.
+	3 Procesar ventas
+	4 Procesar sucursales
+	5 Salir
+1
+Has seleccionado 1 mostrar archivos
+Seleccione archivo a mostrar 
+	1 Sucursales internacionales 
+	2 Sucursales nuevas 
+	3 Ventas
+1
+~~Archivo SUC_INTER.dat
+
+Sucursal n: 1
+	Nombre     : s1
+	Pais       : argentina
+	Provincia  : buenos_aires
+	Localidad  : abc
+
+_________________________________________
+Sucursal n: 3
+	Nombre     : s3
+	Pais       : argentina
+	Provincia  : buenos_aires
+	Localidad  : abb
+
+_________________________________________
+Sucursal n: 5
+	Nombre     : s5
+	Pais       : argentina
+	Provincia  : buenos_aires
+	Localidad  : bcd
+
+_________________________________________
+Sucursal n: 7
+	Nombre     : s7
+	Pais       : argentina
+	Provincia  : la_pampa
+	Localidad  : ccc
+
+_________________________________________
+Sucursal n: 59
+	Nombre     : s59
+	Pais       : argentina
+	Provincia  : la_pampa
+	Localidad  : eee
+
+_________________________________________
+Sucursal n: 71
+	Nombre     : s71
+	Pais       : argentina
+	Provincia  : santa_fe
+	Localidad  : xxx
+
+_________________________________________
+Sucursal n: 739
+	Nombre     : s739
+	Pais       : australia
+	Provincia  : melbourne
+	Localidad  : mmm
+
+_________________________________________
+Sucursal n: 743
+	Nombre     : s743
+	Pais       : australia
+	Provincia  : sydney
+	Localidad  : sss
+
+_________________________________________
+Sucursal n: 757
+	Nombre     : s757
+	Pais       : australia
+	Provincia  : sydney
+	Localidad  : ddd
+
+_________________________________________
+Sucursal n: 1163
+	Nombre     : s1163
+	Pais       : brasil
+	Provincia  : bahis
+	Localidad  : bbb
+
+_________________________________________
+Sucursal n: 1181
+	Nombre     : s1181
+	Pais       : brasil
+	Provincia  : minas_gerais
+	Localidad  : ggg
+
+_________________________________________
+Sucursal n: 1187
+	Nombre     : s1187
+	Pais       : brasil
+	Provincia  : rio_gde_do_sul
+	Localidad  : rgd
+
+_________________________________________
+Sucursal n: 3109
+	Nombre     : s3109
+	Pais       : brasil
+	Provincia  : sao_paulo
+	Localidad  : sap
+
+_________________________________________
+Sucursal n: 3119
+	Nombre     : s3119
+	Pais       : brasil
+	Provincia  : Sao_paulo
+	Localidad  : ssp
+
+_________________________________________
+Sucursal n: 3121
+	Nombre     : s3121
+	Pais       : canada
+	Provincia  : toronto
+	Localidad  : ttt
+
+_________________________________________
+Sucursal n: 3137
+	Nombre     : s3137
+	Pais       : francia
+	Provincia  : isla_de_francia
+	Localidad  : fff
+
+_________________________________________
+Sucursal n: 5407
+	Nombre     : s5407
+	Pais       : japon
+	Provincia  : tokio
+	Localidad  : jjj
+
+_________________________________________
+Sucursal n: 5413
+	Nombre     : s5413
+	Pais       : mexico
+	Provincia  : guadalajara
+	Localidad  : mex
+
+_________________________________________
+Sucursal n: 5417
+	Nombre     : s5417
+	Pais       : nigeria
+	Provincia  : plateau
+	Localidad  : nnn
+
+_________________________________________
+Sucursal n: 8861
+	Nombre     : s8861
+	Pais       : rusia
+	Provincia  : novgorod
+	Localidad  : rrr
+
+_________________________________________
+Lectura teminada
+¿Desea volver al menu principal? s / n : Elija una opcion valida. Desea volver al menu principal? s / n : s
+Seleccione una opcion:
+ 	1 Mostrar archivo.
+	2 Ingresar registro.
+	3 Procesar ventas
+	4 Procesar sucursales
+	5 Salir
+1
+Has seleccionado 1 mostrar archivos
+Seleccione archivo a mostrar 
+	1 Sucursales internacionales 
+	2 Sucursales nuevas 
+	3 Ventas
+2
+~~Archivo SUC_NUEVAS.dat
+
+Sucursal n: 2
+	Nombre     : s2
+	Pais       : argentina
+	Provincia  : tucuman
+	Localidad  : tuc
+
+_________________________________________
+Sucursal n: 8
+	Nombre     : s8
+	Pais       : alemania
+	Provincia  : berlin
+	Localidad  : ber
+
+_________________________________________
+Sucursal n: 16
+	Nombre     : s16
+	Pais       : hungria
+	Provincia  : baranya
+	Localidad  : bar
+
+_________________________________________
+Sucursal n: 32
+	Nombre     : s32
+	Pais       : polonia
+	Provincia  : lubusz
+	Localidad  : lub
+
+_________________________________________
+Sucursal n: 64
+	Nombre     : s64
+	Pais       : peru
+	Provincia  : callao
+	Localidad  : cal
+
+_________________________________________
+Sucursal n: 128
+	Nombre     : s128
+	Pais       : ecuador
+	Provincia  : pichincha
+	Localidad  : qui
+
+_________________________________________
+Sucursal n: 256
+	Nombre     : s256
+	Pais       : australia
+	Provincia  : queensland
+	Localidad  : que
+
+_________________________________________
+Sucursal n: 1024
+	Nombre     : s1024
+	Pais       : brasil
+	Provincia  : para
+	Localidad  : par
+
+_________________________________________
+Sucursal n: 4096
+	Nombre     : s4096
+	Pais       : francia
+	Provincia  : occitania
+	Localidad  : oc
+
+_________________________________________
+Sucursal n: 8192
+	Nombre     : s8192
+	Pais       : nigeria
+	Provincia  : kwara
+	Localidad  : kwa
+
+_________________________________________
+Lectura teminada
+¿Desea volver al menu principal? s / n : Elija una opcion valida. Desea volver al menu principal? s / n : s
+Seleccione una opcion:
+ 	1 Mostrar archivo.
+	2 Ingresar registro.
+	3 Procesar ventas
+	4 Procesar sucursales
+	5 Salir
+1
+Has seleccionado 1 mostrar archivos
+Seleccione archivo a mostrar 
+	1 Sucursales internacionales 
+	2 Sucursales nuevas 
+	3 Ventas
+3
+~~Archivo VENTAS.dat
+
+Sucursal n: 1
+	Vendedor : 1
+	Importe : 100.000
+
+_________________________________________
+Sucursal n: 1
+	Vendedor : 1
+	Importe : 200.000
+
+_________________________________________
+Sucursal n: 1
+	Vendedor : 5
+	Importe : 34.000
+
+_________________________________________
+Sucursal n: 1
+	Vendedor : 7
+	Importe : 456.000
+
+_________________________________________
+Sucursal n: 1
+	Vendedor : 7
+	Importe : 230.000
+
+_________________________________________
+Sucursal n: 2
+	Vendedor : 4
+	Importe : 500.000
+
+_________________________________________
+Sucursal n: 2
+	Vendedor : 6
+	Importe : 899.000
+
+_________________________________________
+Sucursal n: 2
+	Vendedor : 8
+	Importe : 233.000
+
+_________________________________________
+Sucursal n: 3
+	Vendedor : 1
+	Importe : 899.000
+
+_________________________________________
+Sucursal n: 3
+	Vendedor : 56
+	Importe : 999.000
+
+_________________________________________
+Sucursal n: 5
+	Vendedor : 19
+	Importe : 23.300
+
+_________________________________________
+Sucursal n: 5
+	Vendedor : 23
+	Importe : 12.000
+
+_________________________________________
+Lectura finalizada
+¿Desea volver al menu principal? s / n : Elija una opcion valida. Desea volver al menu principal? s / n : s
+[@@@@@@@@@@@@ 2 MOSTRAR VENTAS PROCESADAS]
+Seleccione una opcion:
+ 	1 Mostrar archivo.
+	2 Ingresar registro.
+	3 Procesar ventas
+	4 Procesar sucursales
+	5 Salir
+3
+Has seleccionado 3 
+
+~~Operaciones del mes
+_________________________________________
+Sucursal 1 
+	Vendedor 1 	importe 300.000 
+	Vendedor 5 	importe 34.000 
+	Vendedor 7 	importe 686.000 
+
+sucursal 1 importe total 	1020.000 
+_________________________________________
+Sucursal 2 
+	Vendedor 4 	importe 500.000 
+	Vendedor 6 	importe 899.000 
+	Vendedor 8 	importe 233.000 
+
+sucursal 2 importe total 	1632.000 
+_________________________________________
+Sucursal 3 
+	Vendedor 1 	importe 899.000 
+	Vendedor 56 	importe 999.000 
+
+sucursal 3 importe total 	1898.000 
+_________________________________________
+Sucursal 5 
+	Vendedor 19 	importe 23.300 
+	Vendedor 23 	importe 12.000 
+
+sucursal 5 importe total 	35.300 
+_________________________________________
+TOTAL GLOBAL		        4585.2998 
+¿Desea volver al menu principal? s / n : Elija una opcion valida. Desea volver al menu principal? s / n : s
+[@@@@@@ 3 CARGAR VENTAS]
+Seleccione una opcion:
+ 	1 Mostrar archivo.
+	2 Ingresar registro.
+	3 Procesar ventas
+	4 Procesar sucursales
+	5 Salir
+2
+Has seleccionado 2 
+Seleccione archivo a editar 
+	2 Sucursales nuevas 
+	3 Ventas
+3
+Ingrese codigo Sucursal termina carga con 0 1
+ingrese codigo vendedor entre 1 y 75: 1
+Ingrese importe: 100
+Ingrese codigo Sucursal termina carga con 0 1
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 1
+Ingrese importe: 50
+Ingrese codigo Sucursal termina carga con 0 1
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 70
+Ingrese importe: 200
+Ingrese codigo Sucursal termina carga con 0 1
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 26
+Ingrese importe: 50
+Ingrese codigo Sucursal termina carga con 0 8
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 33
+Ingrese importe:500
+Ingrese codigo Sucursal termina carga con 0 8
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 45
+Ingrese importe: 250
+Ingrese codigo Sucursal termina carga con 0 8
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 33
+Ingrese importe: 500
+Ingrese codigo Sucursal termina carga con 0 8
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 1
+Ingrese importe: 750
+Ingrese codigo Sucursal termina carga con 0 4096
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 11
+Ingrese importe: 1230
+Ingrese codigo Sucursal termina carga con 0 4096
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 11
+Ingrese importe: 70
+Ingrese codigo Sucursal termina carga con 0 4096
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 56 7
+Ingrese importe: 700
+Ingrese codigo Sucursal termina carga con 0 4096
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 2
+Ingrese importe: 2000
+Ingrese codigo Sucursal termina carga con 0 1181
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 7
+Ingrese importe: 300
+Ingrese codigo Sucursal termina carga con 0 1181
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 13
+Ingrese importe:175
+Ingrese codigo Sucursal termina carga con 0 1181
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 23
+Ingrese importe: 175
+Ingrese codigo Sucursal termina carga con 0 1181
+_________________________________________
+ingrese codigo vendedor entre 1 y 75: 7
+Ingrese importe: 350
+Ingrese codigo Sucursal termina carga con 0 0
+_________________________________________
+Carga finalizada
+¿Desea volver al menu principal? s / n : Elija una opcion valida. Desea volver al menu principal? s / n : s
+[@@@@@ 4 MOSTRAR PROCESAR VENTAS PARA CONSTATAR SU ACTUALIZACION]
+Seleccione una opcion:
+ 	1 Mostrar archivo.
+	2 Ingresar registro.
+	3 Procesar ventas
+	4 Procesar sucursales
+	5 Salir
+3
+Has seleccionado 3 
+
+~~Operaciones del mes
+_________________________________________
+Sucursal 1 
+	Vendedor 1 	importe 450.000 
+	Vendedor 5 	importe 34.000 
+	Vendedor 7 	importe 686.000 
+	Vendedor 26 	importe 50.000 
+	Vendedor 70 	importe 200.000 
+
+sucursal 1 importe total 	1420.000 
+_________________________________________
+Sucursal 2 
+	Vendedor 4 	importe 500.000 
+	Vendedor 6 	importe 899.000 
+	Vendedor 8 	importe 233.000 
+
+sucursal 2 importe total 	1632.000 
+_________________________________________
+Sucursal 3 
+	Vendedor 1 	importe 899.000 
+	Vendedor 56 	importe 999.000 
+
+sucursal 3 importe total 	1898.000 
+_________________________________________
+Sucursal 5 
+	Vendedor 19 	importe 23.300 
+	Vendedor 23 	importe 12.000 
+
+sucursal 5 importe total 	35.300 
+_________________________________________
+Sucursal 8 
+	Vendedor 1 	importe 750.000 
+	Vendedor 33 	importe 1000.000 
+	Vendedor 45 	importe 250.000 
+
+sucursal 8 importe total 	2000.000 
+_________________________________________
+Sucursal 1181 
+	Vendedor 7 	importe 650.000 
+	Vendedor 13 	importe 175.000 
+	Vendedor 23 	importe 175.000 
+
+sucursal 1181 importe total 	1000.000 
+_________________________________________
+Sucursal 4096 
+	Vendedor 2 	importe 2000.000 
+	Vendedor 11 	importe 1300.000 
+	Vendedor 57 	importe 700.000 
+
+sucursal 4096 importe total 	4000.000 
+_________________________________________
+TOTAL GLOBAL		        11985.2998 
+¿Desea volver al menu principal? s / n : Elija una opcion valida. Desea volver al menu principal? s / n : s
+[@@@@@@@@@@@@@@ 5 CARGAR SUCURSALES NUEVAS INCLUIDAS LAS QUE GENERARAN CONFLICTO]
+Seleccione una opcion:
+ 	1 Mostrar archivo.
+	2 Ingresar registro.
+	3 Procesar ventas
+	4 Procesar sucursales
+	5 Salir
+2
+Has seleccionado 2 
+Seleccione archivo a editar 
+	2 Sucursales nuevas 
+	3 Ventas
+2
+Ingrese codigo Sucursal termina carga con 0 10
+ingrese nombre: s10
+ingrese Pais: Uruguay
+Ingrese Provincia: Montevideo
+Ingrese Localidad: uuu
+Ingrese codigo Sucursal termina carga con 0 20
+ingrese nombre: s20
+ingrese Pais: China
+Ingrese Provincia: Beijin
+Ingrese Localidad: cch
+Ingrese codigo Sucursal termina carga con 0 5000
+ingrese nombre: s5000
+ingrese Pais: Italia
+Ingrese Provincia: Roma
+Ingrese Localidad: iii
+Ingrese codigo Sucursal termina carga con 0 3339
+ingrese nombre: s3339
+ingrese Pais: Colombia
+Ingrese Provincia: Bogota
+Ingrese Localidad: ccc
+Ingrese codigo Sucursal termina carga con 0 9999
+ingrese nombre: s9999
+ingrese Pais: Suecia
+Ingrese Provincia: Estocolomo
+Ingrese Localidad: sss
+Ingrese codigo Sucursal termina carga con 0 1
+ingrese nombre: s1
+ingrese Pais: Afganistan
+Ingrese Provincia: Kandahar
+Ingrese Localidad: aaa
+Ingrese codigo Sucursal termina carga con 0 5
+ingrese nombre: s5
+ingrese Pais: Chile
+Ingrese Provincia: Temuco
+Ingrese Localidad: ccc
+Ingrese codigo Sucursal termina carga con 0 59
+ingrese nombre: s59
+ingrese Pais: Malasia
+Ingrese Provincia: Kualalumpur
+Ingrese Localidad: mmm
+Ingrese codigo Sucursal termina carga con 0 8861
+ingrese nombre: s8861
+ingrese Pais: Grecia
+Ingrese Provincia: Atenas
+Ingrese Localidad: ggg
+Ingrese codigo Sucursal termina carga con 0 0
+Carga finalizada
+¿Desea volver al menu principal? s / n : Elija una opcion valida. Desea volver al menu principal? s / n : s
+[@@@@@@@@@@@@@@ 6 MOSTRAR SUCURSALES NUEVAS PARA CONSTATAR SU ACTUALIZACION]
+Seleccione una opcion:
+ 	1 Mostrar archivo.
+	2 Ingresar registro.
+	3 Procesar ventas
+	4 Procesar sucursales
+	5 Salir
+1
+Has seleccionado 1 mostrar archivos
+Seleccione archivo a mostrar 
+	1 Sucursales internacionales 
+	2 Sucursales nuevas 
+	3 Ventas
+2
+~~Archivo SUC_NUEVAS.dat
+
+Sucursal n: 1
+	Nombre     : s1
+	Pais       : Afganistan
+	Provincia  : Kandahar
+	Localidad  : aaa
+
+_________________________________________
+Sucursal n: 2
+	Nombre     : s2
+	Pais       : argentina
+	Provincia  : tucuman
+	Localidad  : tuc
+
+_________________________________________
+Sucursal n: 5
+	Nombre     : s5
+	Pais       : Chile
+	Provincia  : Temuco
+	Localidad  : ccc
+
+_________________________________________
+Sucursal n: 8
+	Nombre     : s8
+	Pais       : alemania
+	Provincia  : berlin
+	Localidad  : ber
+
+_________________________________________
+Sucursal n: 10
+	Nombre     : s10
+	Pais       : Uruguay
+	Provincia  : Montevideo
+	Localidad  : uuu
+
+_________________________________________
+Sucursal n: 16
+	Nombre     : s16
+	Pais       : hungria
+	Provincia  : baranya
+	Localidad  : bar
+
+_________________________________________
+Sucursal n: 20
+	Nombre     : s20
+	Pais       : China
+	Provincia  : Beijin
+	Localidad  : cch
+
+_________________________________________
+Sucursal n: 32
+	Nombre     : s32
+	Pais       : polonia
+	Provincia  : lubusz
+	Localidad  : lub
+
+_________________________________________
+Sucursal n: 59
+	Nombre     : s59
+	Pais       : Malasia
+	Provincia  : Kualalumpur
+	Localidad  : mmm
+
+_________________________________________
+Sucursal n: 64
+	Nombre     : s64
+	Pais       : peru
+	Provincia  : callao
+	Localidad  : cal
+
+_________________________________________
+Sucursal n: 128
+	Nombre     : s128
+	Pais       : ecuador
+	Provincia  : pichincha
+	Localidad  : qui
+
+_________________________________________
+Sucursal n: 256
+	Nombre     : s256
+	Pais       : australia
+	Provincia  : queensland
+	Localidad  : que
+
+_________________________________________
+Sucursal n: 1024
+	Nombre     : s1024
+	Pais       : brasil
+	Provincia  : para
+	Localidad  : par
+
+_________________________________________
+Sucursal n: 3339
+	Nombre     : s3339
+	Pais       : Colombia
+	Provincia  : Bogota
+	Localidad  : ccc
+
+_________________________________________
+Sucursal n: 4096
+	Nombre     : s4096
+	Pais       : francia
+	Provincia  : occitania
+	Localidad  : oc
+
+_________________________________________
+Sucursal n: 5000
+	Nombre     : s5000
+	Pais       : Italia
+	Provincia  : Roma
+	Localidad  : iii
+
+_________________________________________
+Sucursal n: 8192
+	Nombre     : s8192
+	Pais       : nigeria
+	Provincia  : kwara
+	Localidad  : kwa
+
+_________________________________________
+Sucursal n: 8861
+	Nombre     : s8861
+	Pais       : Grecia
+	Provincia  : Atenas
+	Localidad  : ggg
+
+_________________________________________
+Sucursal n: 9999
+	Nombre     : s9999
+	Pais       : Suecia
+	Provincia  : Estocolomo
+	Localidad  : sss
+
+_________________________________________
+Lectura teminada
+¿Desea volver al menu principal? s / n : Elija una opcion valida. Desea volver al menu principal? s / n : s
+[@@@@@@@@@@@@ 7  PROCESAR SUCURSALES]
+Seleccione una opcion:
+ 	1 Mostrar archivo.
+	2 Ingresar registro.
+	3 Procesar ventas
+	4 Procesar sucursales
+	5 Salir
+4
+Has seleccionado 4 
+Se ha completado el apareo. 
+¿Desea volver al menu principal? s / n : Elija una opcion valida. Desea volver al menu principal? s / n : s
+[@ 8 MOSTRAR SUCURSALES INTER PARA CONSTATAR ACTUALIZACION SIN SOBREESCRITURA DE REPETIDOS]
+Seleccione una opcion:
+ 	1 Mostrar archivo.
+	2 Ingresar registro.
+	3 Procesar ventas
+	4 Procesar sucursales
+	5 Salir
+1
+Has seleccionado 1 mostrar archivos
+Seleccione archivo a mostrar 
+	1 Sucursales internacionales 
+	2 Sucursales nuevas 
+	3 Ventas
+1
+~~Archivo SUC_INTER.dat
+
+Sucursal n: 1
+	Nombre     : s1
+	Pais       : argentina
+	Provincia  : buenos_aires
+	Localidad  : abc
+
+_________________________________________
+Sucursal n: 2
+	Nombre     : s2
+	Pais       : argentina
+	Provincia  : tucuman
+	Localidad  : tuc
+
+_________________________________________
+Sucursal n: 3
+	Nombre     : s3
+	Pais       : argentina
+	Provincia  : buenos_aires
+	Localidad  : abb
+
+_________________________________________
+Sucursal n: 5
+	Nombre     : s5
+	Pais       : argentina
+	Provincia  : buenos_aires
+	Localidad  : bcd
+
+_________________________________________
+Sucursal n: 7
+	Nombre     : s7
+	Pais       : argentina
+	Provincia  : la_pampa
+	Localidad  : ccc
+
+_________________________________________
+Sucursal n: 8
+	Nombre     : s8
+	Pais       : alemania
+	Provincia  : berlin
+	Localidad  : ber
+
+_________________________________________
+Sucursal n: 10
+	Nombre     : s10
+	Pais       : Uruguay
+	Provincia  : Montevideo
+	Localidad  : uuu
+
+_________________________________________
+Sucursal n: 16
+	Nombre     : s16
+	Pais       : hungria
+	Provincia  : baranya
+	Localidad  : bar
+
+_________________________________________
+Sucursal n: 20
+	Nombre     : s20
+	Pais       : China
+	Provincia  : Beijin
+	Localidad  : cch
+
+_________________________________________
+Sucursal n: 32
+	Nombre     : s32
+	Pais       : polonia
+	Provincia  : lubusz
+	Localidad  : lub
+
+_________________________________________
+Sucursal n: 59
+	Nombre     : s59
+	Pais       : argentina
+	Provincia  : la_pampa
+	Localidad  : eee
+
+_________________________________________
+Sucursal n: 64
+	Nombre     : s64
+	Pais       : peru
+	Provincia  : callao
+	Localidad  : cal
+
+_________________________________________
+Sucursal n: 71
+	Nombre     : s71
+	Pais       : argentina
+	Provincia  : santa_fe
+	Localidad  : xxx
+
+_________________________________________
+Sucursal n: 128
+	Nombre     : s128
+	Pais       : ecuador
+	Provincia  : pichincha
+	Localidad  : qui
+
+_________________________________________
+Sucursal n: 256
+	Nombre     : s256
+	Pais       : australia
+	Provincia  : queensland
+	Localidad  : que
+
+_________________________________________
+Sucursal n: 739
+	Nombre     : s739
+	Pais       : australia
+	Provincia  : melbourne
+	Localidad  : mmm
+
+_________________________________________
+Sucursal n: 743
+	Nombre     : s743
+	Pais       : australia
+	Provincia  : sydney
+	Localidad  : sss
+
+_________________________________________
+Sucursal n: 757
+	Nombre     : s757
+	Pais       : australia
+	Provincia  : sydney
+	Localidad  : ddd
+
+_________________________________________
+Sucursal n: 1024
+	Nombre     : s1024
+	Pais       : brasil
+	Provincia  : para
+	Localidad  : par
+
+_________________________________________
+Sucursal n: 1163
+	Nombre     : s1163
+	Pais       : brasil
+	Provincia  : bahis
+	Localidad  : bbb
+
+_________________________________________
+Sucursal n: 1181
+	Nombre     : s1181
+	Pais       : brasil
+	Provincia  : minas_gerais
+	Localidad  : ggg
+
+_________________________________________
+Sucursal n: 1187
+	Nombre     : s1187
+	Pais       : brasil
+	Provincia  : rio_gde_do_sul
+	Localidad  : rgd
+
+_________________________________________
+Sucursal n: 3109
+	Nombre     : s3109
+	Pais       : brasil
+	Provincia  : sao_paulo
+	Localidad  : sap
+
+_________________________________________
+Sucursal n: 3119
+	Nombre     : s3119
+	Pais       : brasil
+	Provincia  : Sao_paulo
+	Localidad  : ssp
+
+_________________________________________
+Sucursal n: 3121
+	Nombre     : s3121
+	Pais       : canada
+	Provincia  : toronto
+	Localidad  : ttt
+
+_________________________________________
+Sucursal n: 3137
+	Nombre     : s3137
+	Pais       : francia
+	Provincia  : isla_de_francia
+	Localidad  : fff
+
+_________________________________________
+Sucursal n: 3339
+	Nombre     : s3339
+	Pais       : Colombia
+	Provincia  : Bogota
+	Localidad  : ccc
+
+_________________________________________
+Sucursal n: 4096
+	Nombre     : s4096
+	Pais       : francia
+	Provincia  : occitania
+	Localidad  : oc
+
+_________________________________________
+Sucursal n: 5000
+	Nombre     : s5000
+	Pais       : Italia
+	Provincia  : Roma
+	Localidad  : iii
+
+_________________________________________
+Sucursal n: 5407
+	Nombre     : s5407
+	Pais       : japon
+	Provincia  : tokio
+	Localidad  : jjj
+
+_________________________________________
+Sucursal n: 5413
+	Nombre     : s5413
+	Pais       : mexico
+	Provincia  : guadalajara
+	Localidad  : mex
+
+_________________________________________
+Sucursal n: 5417
+	Nombre     : s5417
+	Pais       : nigeria
+	Provincia  : plateau
+	Localidad  : nnn
+
+_________________________________________
+Sucursal n: 8192
+	Nombre     : s8192
+	Pais       : nigeria
+	Provincia  : kwara
+	Localidad  : kwa
+
+_________________________________________
+Sucursal n: 8861
+	Nombre     : s8861
+	Pais       : rusia
+	Provincia  : novgorod
+	Localidad  : rrr
+
+_________________________________________
+Sucursal n: 9999
+	Nombre     : s9999
+	Pais       : Suecia
+	Provincia  : Estocolomo
+	Localidad  : sss
+
+_________________________________________
+Lectura teminada
+¿Desea volver al menu principal? s / n : Elija una opcion valida. Desea volver al menu principal? s / n : s
+[@@@@@@@@@@@@@@@ 9 SALIR]
+Seleccione una opcion:
+ 	1 Mostrar archivo.
+	2 Ingresar registro.
+	3 Procesar ventas
+	4 Procesar sucursales
+	5 Salir
+5
+******************  ADIOS. HASTA PRONTO. :) ************
+
